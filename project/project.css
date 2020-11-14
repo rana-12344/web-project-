@@ -28,7 +28,7 @@ color: white;
 }
 
 /* THE LOGIN AND SIGNIN PAGES */
-div.relative{
+.ri{
    position: relative;
    right: 50px; }
 }
