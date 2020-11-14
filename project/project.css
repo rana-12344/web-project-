@@ -28,7 +28,10 @@ color: white;
 }
 
 /* THE LOGIN AND SIGNIN PAGES */
-
+div.relative{
+   position: relative;
+   right: -620px; }
+}
 
 
 /* Rio page */
